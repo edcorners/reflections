@@ -9,3 +9,5 @@ When you need to create alternate versions of your files/code or work on paralle
 Branches help keeping these changes separate and independent.
 How do the diagrams help you visualize the branch structure?
 Helps understanding what is the state of the repository and the different branches created
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+All the commits are part of the same branch and timeline. Beccause it is an alternate parallel version of our files.
