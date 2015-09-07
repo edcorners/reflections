@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Starts a new space for versionable files. In order to be able to keep track of versions of your files.
