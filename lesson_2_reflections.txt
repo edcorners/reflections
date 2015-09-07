@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 Starts a new space for versionable files. In order to be able to keep track of versions of your files.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area groups a number of files to be added to the repository. Working directory is simply the directory where the files are placed.
