@@ -11,3 +11,5 @@ How do the diagrams help you visualize the branch structure?
 Helps understanding what is the state of the repository and the different branches created
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All the commits are part of the same branch and timeline. Beccause it is an alternate parallel version of our files.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manual is tedious but it might be safer. Automatic could be unsafe.
