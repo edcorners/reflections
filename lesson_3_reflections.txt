@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork clones a remote repository, Clone creates a copy of a local or remote repository in your local, branch creates an alternate commit path from a local repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Be able to revert changes, do fast forward merges, avoid conflicts.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+SVN. But could be potentially problematic
