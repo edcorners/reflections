@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 Be able to revert changes, do fast forward merges, avoid conflicts.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 SVN. But could be potentially problematic
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When a new big feature is going to be built. Commiting in master is immediate, but potentially conflictive.
